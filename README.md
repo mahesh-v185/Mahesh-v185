@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Mahesh V 👋</h1>
+  <h1>Hi, I'm Mahesh 👋</h1>
   <h3>A self-driven tech enthusiast passionate about AI, apps, and solving real-world problems through code.</h3>
 </div>
 
