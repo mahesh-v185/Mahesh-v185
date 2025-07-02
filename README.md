@@ -52,7 +52,7 @@
 | *HourHub*     | QR check-in + billing system for cafes (check-in, checkout, and invoice)     |
 | *Library Login System* | A simple yet secure student authentication and login platform       |
 
-> ⚒ All projects are coded from scratch and hosted on [GitHub.com/YourUsername](https://github.com/mahesh-v185)
+> ⚒ All projects are coded from scratch and hosted on [GitHub.com/mahesh-v185](https://github.com/mahesh-v185)
 
 ---
 
