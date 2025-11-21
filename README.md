@@ -82,8 +82,8 @@ Android Studio React Native Firebase Git & GitHub Figma VS Code
 ## 🔗 Connect With Me
 
 - 📩 Email: vk143264mkc@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/mr-mahesh-4209b4284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-- 🌐 Portfolio: [yourwebsite.dev](https://yourwebsite.dev)
+- 💼 LinkedIn:(https://www.linkedin.com/in/mr-mahesh-4209b4284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+- 🌐 Portfolio:(https://portfolio-seven-iota-z7igt3bmaq.vercel.app/)
 
 ---
 
