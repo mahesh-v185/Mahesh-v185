@@ -33,8 +33,7 @@
 - 💡 Built multiple prototypes, including conversational agents, voice assistants, and timing‑based neural models  
 - 🔬 Working on **Neuronova Engine**, an experimental timing-based neural computation prototype  
 - 📚 Strong self‑learning background in mathematics, AI fundamentals, and full‑stack development  
-- 🌱 Currently studying **JLPT N5**, linear algebra, probability, and interaction systems  
-- 🔍 Preparing for MEXT Undergraduate Scholarship to study Computer Science in Japan  
+- 🌱 Currently studying linear algebra, probability, and interaction systems  
 
 ---
 
